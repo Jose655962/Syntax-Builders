@@ -1,0 +1,1 @@
+Tiempo C (Caballo - 10 veces 500 movs): 0.000000 seg

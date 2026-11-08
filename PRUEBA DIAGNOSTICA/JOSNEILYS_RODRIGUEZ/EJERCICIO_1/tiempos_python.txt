@@ -1,0 +1,2 @@
+Tiempo Python (Caballo - 10 veces 500 movs): 0.000505 seg
+Tiempo Python (Pascal n=100): 0.000396 seg

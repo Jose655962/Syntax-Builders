@@ -1,0 +1,7 @@
+Tiempo C (Pascal n=100): 0.000000 seg
+Tiempo C (Pascal n=100): 0.000000 seg
+Tiempo C (Pascal n=100): 0.000000 seg
+Tiempo C (Pascal n=100): 0.000000 seg
+Tiempo C (Pascal n=100): 0.000000 seg
+Tiempo C (Pascal n=100): 0.000000 seg
+Tiempo C (Pascal n=100): 0.000000 seg
