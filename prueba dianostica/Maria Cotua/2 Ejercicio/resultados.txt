@@ -1,0 +1,1 @@
+- Tiempo en Python: 0.707729 milisegundos- Tiempo en C: 0.011000 milisegundosConclusión: El código en C es más rápido que Python porque maneja la memoria dinámica (malloc) a más bajo nivel.

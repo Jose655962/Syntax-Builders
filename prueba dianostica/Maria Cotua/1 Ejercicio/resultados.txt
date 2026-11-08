@@ -1,0 +1,1 @@
+--- TIEMPO PARA N=100 ---Resultado: CORRECTO (100 movimientos validados)Tiempo n=100: 0.072169 milisegundos--- TIEMPO 10 VECES LA CADENA  ---Resultado de la cadena original: INCORRECTO falla en el movimiento 104Tiempo total (10 ejecuciones): 0.445969 milisegundosTiempo promedio por ejecución: 0.044597 milisegundos

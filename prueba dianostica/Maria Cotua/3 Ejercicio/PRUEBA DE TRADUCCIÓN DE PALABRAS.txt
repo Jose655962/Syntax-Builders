@@ -1,0 +1,1 @@
+PRUEBA DE TRADUCCIÓN DE PALABRAS RESERVADASCódigo Original:int main() { if (x > 5) { while (x > 0) { return 1; } } }Código Traducido por mi programa:entero main() { si (x > 5) { mientras (x > 0) { retornar 1; } } }
