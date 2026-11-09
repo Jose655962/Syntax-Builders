@@ -1,0 +1,15 @@
+EJERCICIO 2 - Lenguaje: Python
+Se generan los polinomios (x+1)^k para k = 0..100
+
+Corrida 1: 0.000736800 s
+Corrida 2: 0.000356200 s
+Corrida 3: 0.000316700 s
+Corrida 4: 0.000344100 s
+Corrida 5: 0.000309500 s
+Corrida 6: 0.000310800 s
+Corrida 7: 0.000341800 s
+Corrida 8: 0.000309200 s
+Corrida 9: 0.000308600 s
+Corrida 10: 0.000316600 s
+Total: 0.003650300 s
+Promedio: 0.000365030 s

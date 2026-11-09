@@ -1,0 +1,15 @@
+EJERCICIO 2 - Lenguaje: C
+Se generan los polinomios (x+1)^k para k = 0..100
+
+Corrida 1: 0.000057500 s
+Corrida 2: 0.000051500 s
+Corrida 3: 0.000051400 s
+Corrida 4: 0.000050900 s
+Corrida 5: 0.000051600 s
+Corrida 6: 0.000051200 s
+Corrida 7: 0.000050500 s
+Corrida 8: 0.000050800 s
+Corrida 9: 0.000050700 s
+Corrida 10: 0.000050900 s
+Total: 0.000517000 s
+Promedio: 0.000051700 s
